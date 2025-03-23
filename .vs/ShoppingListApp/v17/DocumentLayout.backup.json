@@ -1,0 +1,574 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\shoppinglistapp\\bll\\services\\shoppinglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\services\\shoppinglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\services\\shoppingitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\services\\shoppingitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\dtos\\shoppinglistwithitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\shoppinglistwithitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\dtos\\shoppinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\shoppinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\ef\\shoppinglistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\shoppinglistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\dtos\\shoppingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\shoppingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\shoppinglistapp\\controllers\\sharedlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\controllers\\sharedlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\shoppinglistapp\\controllers\\shoppingitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\controllers\\shoppingitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\ef\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\ef\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\ef\\sharedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\sharedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\services\\sharedlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\services\\sharedlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\repos\\shoppinglistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\shoppinglistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\repos\\shoppingitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\shoppingitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\repos\\sharedlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\sharedlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\migrations\\202501210902275_addshoppinglistinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501210902275_addshoppinglistinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\interfaces\\iuserauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\interfaces\\ishoppingitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ishoppingitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\shoppinglistapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\shoppinglistapp\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\dtos\\userwithlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userwithlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\migrations\\202501211322391_addtypeandstoreproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501211322391_addtypeandstoreproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\bll\\dtos\\sharedlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7CC411-4634-4A18-B729-194BC3BE15DE}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\sharedlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\dal\\migrations\\202501202110581_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDD0B86-4289-4570-A81A-2BFCEC6E4CDD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501202110581_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|C:\\Users\\User\\source\\repos\\ShoppingListApp\\shoppinglistapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0930546F-8263-451E-9F52-A2047FC94B12}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\ShoppingItemDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ShoppingItemDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\ShoppingItemDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ShoppingItemDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:54:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingItemService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\ShoppingItemService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ShoppingItemService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\ShoppingItemService.cs",
+              "RelativeToolTip": "BLL\\Services\\ShoppingItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:23:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingListService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\ShoppingListService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ShoppingListService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\ShoppingListService.cs",
+              "RelativeToolTip": "BLL\\Services\\ShoppingListService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv2AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:23:33.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingListContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\ShoppingListContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\ShoppingListContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\ShoppingListContext.cs",
+              "RelativeToolTip": "DAL\\EF\\ShoppingListContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:09:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\ShoppingListDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ShoppingListDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\ShoppingListDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ShoppingListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:54:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingListWithItemsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\ShoppingListWithItemsDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ShoppingListWithItemsDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\ShoppingListWithItemsDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ShoppingListWithItemsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:55:27.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SharedListController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\SharedListController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Controllers\\SharedListController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\SharedListController.cs",
+              "RelativeToolTip": "ShoppingListApp\\Controllers\\SharedListController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:14:50.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingItemController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\ShoppingItemController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Controllers\\ShoppingItemController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\ShoppingItemController.cs",
+              "RelativeToolTip": "ShoppingListApp\\Controllers\\ShoppingItemController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwF8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:14:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\ShoppingItem.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\ShoppingItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\ShoppingItem.cs",
+              "RelativeToolTip": "DAL\\EF\\ShoppingItem.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:42:10.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:41:29.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\ShoppingList.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\ShoppingList.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\ShoppingList.cs",
+              "RelativeToolTip": "DAL\\EF\\ShoppingList.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:41:59.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SharedList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\SharedList.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\SharedList.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\EF\\SharedList.cs",
+              "RelativeToolTip": "DAL\\EF\\SharedList.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:02:35.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:23:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SharedListService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\SharedListService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SharedListService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\Services\\SharedListService.cs",
+              "RelativeToolTip": "BLL\\Services\\SharedListService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:24:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:43:04.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:43:14.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingListRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\ShoppingListRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ShoppingListRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\ShoppingListRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ShoppingListRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:41:29.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoppingItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\ShoppingItemRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ShoppingItemRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\ShoppingItemRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ShoppingItemRepo.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswD4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:41:55.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SharedListRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\SharedListRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\SharedListRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\SharedListRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\SharedListRepo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:42:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:40:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "202501210902275_addShoppingListInUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\202501210902275_addShoppingListInUser.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501210902275_addShoppingListInUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\202501210902275_addShoppingListInUser.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501210902275_addShoppingListInUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:02:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserAuth.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Interfaces\\IUserAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserAuth.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Interfaces\\IUserAuth.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:22:05.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IShoppingItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Interfaces\\IShoppingItemRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IShoppingItemRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Interfaces\\IShoppingItemRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IShoppingItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:35:18.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:24:05.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ShoppingListApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:27:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingListController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\ShoppingListController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Controllers\\ShoppingListController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Controllers\\ShoppingListController.cs",
+              "RelativeToolTip": "ShoppingListApp\\Controllers\\ShoppingListController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswEsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:13:45.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:16:47.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserWithListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\UserWithListDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserWithListDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\UserWithListDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserWithListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:12:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:51:45.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "202501211322391_addTypeAndStoreProperty.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\202501211322391_addTypeAndStoreProperty.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501211322391_addTypeAndStoreProperty.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\202501211322391_addTypeAndStoreProperty.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501211322391_addTypeAndStoreProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:22:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SharedListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\SharedListDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\SharedListDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\BLL\\DTOs\\SharedListDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\SharedListDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:54:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "202501202110581_1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\202501202110581_1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501202110581_1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\DAL\\Migrations\\202501202110581_1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501202110581_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:11:01.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Web.config",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Web.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ShoppingListApp\\ShoppingListApp\\Web.config",
+              "RelativeToolTip": "ShoppingListApp\\Web.config",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T20:13:05.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

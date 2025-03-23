@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ShoppingListApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\source\repos\ShoppingListApp\DAL\bin\Debug\DAL.dll
+C:\Users\User\source\repos\ShoppingListApp\DAL\bin\Debug\DAL.pdb
+C:\Users\User\source\repos\ShoppingListApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\ShoppingListApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\ShoppingListApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\ShoppingListApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.dll
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.pdb
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.Migrations._1.resources
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.Migrations.addShoppingListInUser.resources
+C:\Users\User\source\repos\ShoppingListApp\DAL\obj\Debug\DAL.Migrations.addTypeAndStoreProperty.resources
